@@ -26,6 +26,12 @@ Just returns a circular avatar back.
 
 [Install](https://raw.githubusercontent.com/4ndv/HexaGone/main/HexaGonePoo.user.js)
 
+### Sus
+
+![Sus](imgs/susTwitter.png)
+
+[Install](https://raw.githubusercontent.com/Sarayalth/HexaGone/main/HexaGoneSus.user.js)
+
 ## License
 
 WTFPL, lol.
