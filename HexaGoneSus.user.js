@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        HexaGone - Sus
 // @namespace   https://github.com/Sarayalth/HexaGone
-// @match       https://twitter.com/*
+// @match       https://*.twitter.com/*
 // @grant       none
-// @version     2.0
+// @version     2.1
 // @author      @libneko, @Sarayalth
 // @description Replaces the NFT hexagons
 // @downloadURL https://raw.githubusercontent.com/Sarayalth/HexaGone/main/HexaGoneSus.user.js
